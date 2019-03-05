@@ -1,0 +1,8 @@
+C:\Users\alexe\Documents\Visual Studio 2017\Projects\Курсовая работа(ASCII-art)\Курсовая работа(ASCII-art)\bin\Release\Курсовая работа(ASCII-art).exe.config
+C:\Users\alexe\Documents\Visual Studio 2017\Projects\Курсовая работа(ASCII-art)\Курсовая работа(ASCII-art)\bin\Release\Курсовая работа(ASCII-art).exe
+C:\Users\alexe\Documents\Visual Studio 2017\Projects\Курсовая работа(ASCII-art)\Курсовая работа(ASCII-art)\bin\Release\Курсовая работа(ASCII-art).pdb
+C:\Users\alexe\Documents\Visual Studio 2017\Projects\Курсовая работа(ASCII-art)\Курсовая работа(ASCII-art)\obj\Release\Курсовая_работа_ASCII_art_.Form1.resources
+C:\Users\alexe\Documents\Visual Studio 2017\Projects\Курсовая работа(ASCII-art)\Курсовая работа(ASCII-art)\obj\Release\Курсовая_работа_ASCII_art_.Properties.Resources.resources
+C:\Users\alexe\Documents\Visual Studio 2017\Projects\Курсовая работа(ASCII-art)\Курсовая работа(ASCII-art)\obj\Release\Курсовая работа(ASCII-art).csproj.GenerateResource.Cache
+C:\Users\alexe\Documents\Visual Studio 2017\Projects\Курсовая работа(ASCII-art)\Курсовая работа(ASCII-art)\obj\Release\Курсовая работа(ASCII-art).exe
+C:\Users\alexe\Documents\Visual Studio 2017\Projects\Курсовая работа(ASCII-art)\Курсовая работа(ASCII-art)\obj\Release\Курсовая работа(ASCII-art).pdb
